@@ -1,0 +1,13 @@
+.controls {
+    margin: 20px 0;
+}
+
+#canvas {
+    border: 1px solid #ccc;
+}
+
+button {
+    margin: 0 5px;
+    padding: 8px 16px;
+    cursor: pointer;
+}
